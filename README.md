@@ -4,7 +4,7 @@
 Flight Dataset of the year 2008, contains various columns about delays and cancellation of the flights.
 Data Source: https://community.amstat.org/jointscsg-section/dataexpo/dataexpo2009
 
-### Summary of Findings<br>
+# Summary of Findings<br>
 In my exploration, I focused on Arrival and Departual Times, Cancellation and Delay Reasons.
 I fuond that the mosst reason of Cancellation is Weather, and most of flights not cancelled. 
 The Arrival and Departure Delay distribution is right skewed. Also, There is a positive correlation between Arrival and Departure Delay.
